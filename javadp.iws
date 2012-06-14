@@ -58,60 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="State.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/State.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WinnerImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/WinnerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LooserImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/LooserImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameMachine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/GameMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="23" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameMachineImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/GameMachineImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Latte.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TemplateMethod/Latte.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,10 +85,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Demo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TemplateMethod/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="0.28355387">
+            <state line="10" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringConcatStrategy.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/StringConcatStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcatUsingStringImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/ConcatUsingStringImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strategy/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="8" selection-start="405" selection-end="405" vertical-scroll-proportion="0.28355387">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Concator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/Concator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="4" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcatorImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/ConcatorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="48" selection-start="134" selection-end="154" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcatUsingStringBufferImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/ConcatUsingStringBufferImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="30" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,10 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/Observer/Subject.java" />
-        <option value="$PROJECT_DIR$/Observer/SubjectImpl.java" />
-        <option value="$PROJECT_DIR$/Observer/Demo.java" />
         <option value="$PROJECT_DIR$/State/State.java" />
         <option value="$PROJECT_DIR$/State/WinnerImpl.java" />
         <option value="$PROJECT_DIR$/State/LooserImpl.java" />
@@ -175,6 +171,12 @@
         <option value="$PROJECT_DIR$/TemplateMethod/FatfreeCaramelLatte.java" />
         <option value="$PROJECT_DIR$/TemplateMethod/Demo.java" />
         <option value="$PROJECT_DIR$/TemplateMethod/WholeVanillaLatte.java" />
+        <option value="$PROJECT_DIR$/Strategy/StringConcatStrategy.java" />
+        <option value="$PROJECT_DIR$/Strategy/ConcatUsingStringBufferImpl.java" />
+        <option value="$PROJECT_DIR$/Strategy/ConcatUsingStringImpl.java" />
+        <option value="$PROJECT_DIR$/Strategy/ConcatorImpl.java" />
+        <option value="$PROJECT_DIR$/Strategy/Concator.java" />
+        <option value="$PROJECT_DIR$/Strategy/Demo.java" />
       </list>
     </option>
   </component>
@@ -223,7 +225,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TemplateMethod" />
+              <option name="myItemId" value="Strategy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,7 +268,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="TemplateMethod" />
+      <module name="Strategy" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -509,33 +511,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javadp.ipr">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/SubjectImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="84" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/State/State.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
@@ -601,7 +576,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TemplateMethod/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="0.28355387">
+        <state line="10" column="5" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/StringConcatStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/ConcatUsingStringBufferImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/ConcatUsingStringImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/ConcatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="48" selection-start="134" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Concator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="405" selection-end="405" vertical-scroll-proportion="0.28355387">
           <folding />
         </state>
       </provider>
