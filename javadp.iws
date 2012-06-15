@@ -57,71 +57,7 @@
     <favorites_list name="javadp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Logger.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/Logger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractLoggerCreator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/AbstractLoggerCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="105" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XMLLoggerCreator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/XMLLoggerCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSONLoggerCreator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/JSONLoggerCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="55" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="517" selection-end="517" vertical-scroll-proportion="0.61141306">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XMLLoggerImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/XMLLoggerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSONLoggerImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryMethod/JSONLoggerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="19" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -134,22 +70,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Proxy/Image.java" />
-        <option value="$PROJECT_DIR$/Proxy/ImageProxyImpl.java" />
-        <option value="$PROJECT_DIR$/Proxy/ImageImpl.java" />
-        <option value="$PROJECT_DIR$/Proxy/Demo.java" />
-        <option value="$PROJECT_DIR$/Facade/Computer.java" />
-        <option value="$PROJECT_DIR$/Facade/RAM.java" />
-        <option value="$PROJECT_DIR$/Facade/CPU.java" />
-        <option value="$PROJECT_DIR$/Facade/ComputerImpl.java" />
-        <option value="$PROJECT_DIR$/Facade/Demo.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/Logger.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/AbstractLoggerCreator.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/Demo.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/JSONLoggerCreator.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/JSONLoggerImpl.java" />
-        <option value="$PROJECT_DIR$/FactoryMethod/XMLLoggerCreator.java" />
         <option value="$PROJECT_DIR$/FactoryMethod/XMLLoggerImpl.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/S600and550FactoryImpl.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Mercedes.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Car.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari550Impl.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/MercedesS600Impl.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/MercedesS600.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/MercedesC300.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari550.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari149.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/AutoFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/FerrariFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/MercedesFactory.java" />
+        <option value="$PROJECT_DIR$/AbstractFactory/Demo.java" />
       </list>
     </option>
   </component>
@@ -205,26 +141,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javadp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FactoryMethod" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javadp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AbstractFactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -258,7 +174,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FactoryMethod" />
+      <module name="AbstractFactory" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -418,7 +334,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="739" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -433,8 +349,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.4951613" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.6747573" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32524273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.6747573" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32524273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,58 +417,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Proxy/ImageImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/ImageProxyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.32667875" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facade/CPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="249" selection-end="249" vertical-scroll-proportion="0.24500908" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facade/RAM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="37" selection-start="213" selection-end="213" vertical-scroll-proportion="0.19056262" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facade/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facade/ComputerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facade/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="42" selection-start="172" selection-end="172" vertical-scroll-proportion="0.19056262" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FactoryMethod/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FactoryMethod/AbstractLoggerCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="105" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
@@ -590,7 +454,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FactoryMethod/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="517" selection-end="517" vertical-scroll-proportion="0.61141306">
+        <state line="9" column="16" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/MercedesS600.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="44" selection-end="190" vertical-scroll-proportion="0.2853261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/MercedesC300.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="106" selection-start="189" selection-end="189" vertical-scroll-proportion="0.15384616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/Ferrari149.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.04076087">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="150" selection-end="150" vertical-scroll-proportion="0.23076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/AutoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="115" selection-end="115" vertical-scroll-proportion="0.115384616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="0.03846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/FerrariFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="94" selection-start="337" selection-end="423" vertical-scroll-proportion="0.4076087">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/MercedesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="345" selection-end="345" vertical-scroll-proportion="0.3846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="472" selection-end="472" vertical-scroll-proportion="0.5769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractFactory/Ferrari550.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.04076087">
           <folding />
         </state>
       </provider>
