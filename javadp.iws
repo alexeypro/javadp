@@ -57,44 +57,7 @@
     <favorites_list name="javadp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Image.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Proxy/Image.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Proxy/ImageImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageProxyImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Proxy/ImageProxyImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Proxy/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.32667875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -107,11 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Builder/Pizza.java" />
-        <option value="$PROJECT_DIR$/Builder/PizzaOrder.java" />
-        <option value="$PROJECT_DIR$/Builder/Demo.java" />
-        <option value="$PROJECT_DIR$/Adapter/English.java" />
-        <option value="$PROJECT_DIR$/Adapter/EnglishImpl.java" />
         <option value="$PROJECT_DIR$/Adapter/Russian.java" />
         <option value="$PROJECT_DIR$/Adapter/RussianImpl.java" />
         <option value="$PROJECT_DIR$/Adapter/RussianToEnglishAdapter.java" />
@@ -123,6 +81,11 @@
         <option value="$PROJECT_DIR$/Proxy/ImageProxyImpl.java" />
         <option value="$PROJECT_DIR$/Proxy/ImageImpl.java" />
         <option value="$PROJECT_DIR$/Proxy/Demo.java" />
+        <option value="$PROJECT_DIR$/Facade/Computer.java" />
+        <option value="$PROJECT_DIR$/Facade/RAM.java" />
+        <option value="$PROJECT_DIR$/Facade/CPU.java" />
+        <option value="$PROJECT_DIR$/Facade/ComputerImpl.java" />
+        <option value="$PROJECT_DIR$/Facade/Demo.java" />
       </list>
     </option>
   </component>
@@ -171,7 +134,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Proxy" />
+              <option name="myItemId" value="FactoryMethod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javadp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javadp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractFactory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,7 +197,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Proxy" />
+      <module name="Facade" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -374,7 +357,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="980" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -391,7 +374,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938725" sideWeight="0.67287546" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32712457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32712457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -457,41 +440,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Decorator/NonfatMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Decorator/TwoPercentMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="45" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Decorator/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="380" selection-end="380" vertical-scroll-proportion="0.2722323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/PizzaOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="12" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/Builder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Builder/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="8" selection-start="74" selection-end="74" vertical-scroll-proportion="0.08166969">
@@ -565,6 +513,41 @@
     <entry file="file://$PROJECT_DIR$/Proxy/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.32667875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade/CPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="249" selection-end="249" vertical-scroll-proportion="0.24500908">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade/RAM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="37" selection-start="213" selection-end="213" vertical-scroll-proportion="0.19056262">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade/ComputerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="172" selection-end="172" vertical-scroll-proportion="0.19056262">
           <folding />
         </state>
       </provider>
