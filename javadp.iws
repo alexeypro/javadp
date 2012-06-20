@@ -57,7 +57,56 @@
     <favorites_list name="javadp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Voicebox.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/Voicebox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="38" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VoiceboxImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/VoiceboxImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#151#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/Client1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="62" selection-start="155" selection-end="217" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/Client2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="66" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mediator/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.34615386">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -70,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AbstractFactory/MercedesS600Impl.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/MercedesS600.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/MercedesC300.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari550.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/Ferrari149.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/AutoFactory.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/FerrariFactory.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/MercedesFactory.java" />
@@ -86,6 +130,11 @@
         <option value="$PROJECT_DIR$/PostOnceExactly/RestServiceWrapper.java" />
         <option value="$PROJECT_DIR$/PostOnceExactly/RestServiceWrapperImpl.java" />
         <option value="$PROJECT_DIR$/PostOnceExactly/Demo.java" />
+        <option value="$PROJECT_DIR$/Mediator/Voicebox.java" />
+        <option value="$PROJECT_DIR$/Mediator/VoiceboxImpl.java" />
+        <option value="$PROJECT_DIR$/Mediator/Demo.java" />
+        <option value="$PROJECT_DIR$/Mediator/Client1.java" />
+        <option value="$PROJECT_DIR$/Mediator/Client2.java" />
       </list>
     </option>
   </component>
@@ -126,6 +175,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="javadp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javadp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mediator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -174,15 +233,9 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PostOnceExactly" />
+      <module name="Mediator" />
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -340,7 +393,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="739" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -355,8 +408,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.4951613" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.6747573" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32524273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.6747573" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32524273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -423,31 +476,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="150" selection-end="150" vertical-scroll-proportion="0.23076923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/AutoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="34" selection-start="115" selection-end="115" vertical-scroll-proportion="0.115384616" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="0.03846154" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/FerrariFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="94" selection-start="337" selection-end="423" vertical-scroll-proportion="0.4076087" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/MercedesFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="345" selection-end="345" vertical-scroll-proportion="0.3846154" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AbstractFactory/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="33" selection-start="472" selection-end="472" vertical-scroll-proportion="0.5769231" />
@@ -524,6 +552,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Voicebox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/VoiceboxImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="62" selection-start="155" selection-end="217" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="279" selection-end="279" vertical-scroll-proportion="0.34615386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -576,7 +642,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Singleton</last-edited>
+          <last-edited>Mediator</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
