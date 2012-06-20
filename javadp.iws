@@ -57,83 +57,7 @@
     <favorites_list name="javadp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DomainModel1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTransferObject/DomainModel1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DomainModel2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTransferObject/DomainModel2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataTransferObject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTransferObject/DataTransferObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTransferObject/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="8" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestServiceWrapper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PostOnceExactly/RestServiceWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestServiceWrapperImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PostOnceExactly/RestServiceWrapperImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="28" selection-start="1726" selection-end="1738" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#208#231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PostOnceExactly/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="62" selection-start="1472" selection-end="1472" vertical-scroll-proportion="1.0570652">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Command/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="17" selection-start="388" selection-end="433" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -202,16 +126,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="javadp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javadp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RequestAckCallback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -567,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Command/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="388" selection-end="433" vertical-scroll-proportion="0.0">
+        <state line="17" column="17" selection-start="388" selection-end="433" vertical-scroll-proportion="0.65384614">
           <folding />
         </state>
       </provider>
@@ -605,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PostOnceExactly/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="62" selection-start="1472" selection-end="1472" vertical-scroll-proportion="1.0570652">
+        <state line="26" column="62" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.99743587">
           <folding />
         </state>
       </provider>
@@ -662,7 +576,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RequestAckCallback</last-edited>
+          <last-edited>Singleton</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
