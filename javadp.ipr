@@ -157,11 +157,14 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" filepath="$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostOnceExactly/PostOnceExactly.iml" filepath="$PROJECT_DIR$/PostOnceExactly/PostOnceExactly.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RequestAckCallback/RequestAckCallback.iml" filepath="$PROJECT_DIR$/RequestAckCallback/RequestAckCallback.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
